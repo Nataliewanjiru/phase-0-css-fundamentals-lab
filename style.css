@@ -3,3 +3,40 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header{
+  text-align: center;
+}
+
+img{
+  padding-left:500px;
+}
+
+figcaption{
+  text-align: center;
+}
+
+section > p{
+  padding-left: 600px;
+  text-align: center;
+  padding-right: 550px;
+  word-spacing:3px;
+  
+}
+
+#details{
+  background-color: red;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 200px;
+  padding-right:200px;
+}
+
+h3{
+   flex:1;
+   text-align: center;
+}
+
+div >p{
+  text-align: center;
+}
